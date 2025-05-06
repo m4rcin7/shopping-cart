@@ -33,7 +33,7 @@ From my side added total price and +/- in cart.
 You can clone this project :
 
 ```bash
-    git clone https://github.com/markopersonally/shopping-cart.git
+    git clone https://github.com/m4rcin7/shopping-cart.git
     npm install react-bootstrap react-router-dom react-dom
 ```
     
